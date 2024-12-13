@@ -1,0 +1,6 @@
+matplotlib==3.5.1
+pandas==1.4.2
+plotly==5.13.1
+shiny==1.2.1
+shinywidgets==0.3.4
+numpy==1.22.3
